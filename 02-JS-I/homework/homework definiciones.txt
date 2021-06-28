@@ -1,0 +1,13 @@
+Variables: Son pequeños contenedores donde se guarda informacion que vive dentro de la memoria de la computadora.Tambiem sirven para etiquetear datos con nombres descriptivos.
+En resumen las variables etiquetan y guardan datos en la memoria.
+
+String:  Es el hilo (como una oracion) de todos los caracteres del teclado (numeros, letras, espacios, etc.) entre apostrofes ya sean simple o doble.
+Es usado para representar y manipular una sequencia de caracteres.
+
+Funciones:  Son una serie de declaraciones reusables para calcular un valor determinado o para realizar una tarea.
+
+Declaraciones if:  Es una declaracion de control que le permite a javascript tomar desiciones y ejecutar declaraciones condicionales.
+El codigo se ejecuta si (if) la condicion es verdad (true).
+
+Valores Booleanos:  Estos tipos de datos tiene solo dos posibles valores, verdadero (true) o falso (false) y van sin apostrofe.
+Sirve para graficarlos mentalmente como una tecla de prendido o apagado o como una respuesta de si o no a una pregunta. 
